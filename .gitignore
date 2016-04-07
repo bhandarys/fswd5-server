@@ -35,3 +35,10 @@ jspm_packages
 
 # Cloud9 stuff
 .c9
+
+# mongodb data
+mongodb/data
+
+# apic
+apic
+
