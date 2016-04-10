@@ -42,3 +42,5 @@ mongodb/data
 # apic
 apic
 
+# express cookies
+sessions
